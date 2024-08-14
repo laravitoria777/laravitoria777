@@ -1,16 +1,18 @@
-## Hi there 👋
+## boas vindas ao meu perfil:🎀
 
-<!--
-**laravitoria777/laravitoria777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ meu nome é Lara vitoria
+ 
+ -estou estudando na alura;
 
-Here are some ideas to get you started:
+ -estou me desenvolvendo na linguagem JavaScript;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -utilizo esse espaço para minha organzação e compartilhamento dos neus provetos desenvolvidos;
+
+ ### vou entrar em contato comigo 📫
+
+ paluo.lara@escola.pr.gov.br
+ 
+ @v.larazs
+
+ 
+ 
